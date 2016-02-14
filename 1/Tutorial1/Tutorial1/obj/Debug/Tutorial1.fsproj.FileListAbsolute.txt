@@ -10,7 +10,6 @@ H:\Repositories\F-\1\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe.config
 H:\Repositories\F-\1\Tutorial1\Tutorial1\bin\Debug\FSharp.Data.dll
 H:\Repositories\F-\1\Tutorial1\Tutorial1\bin\Debug\FSharp.Data.pdb
 H:\Repositories\F-\1\Tutorial1\Tutorial1\bin\Debug\FSharp.Data.xml
-H:\Repositories\F-\1\Tutorial1\Tutorial1\obj\Debug\Tutorial1.fsproj.Tutorial1.exe.config
 H:\Repositories\F-\1\Tutorial1\Tutorial1\bin\Debug\FSharp.Data.TypeProviders.dll
 H:\Repositories\F-\1\Tutorial1\Tutorial1\bin\Debug\ru\FSharp.Data.TypeProviders.resources.dll
 H:\Repositories\F-\1\Tutorial1\Tutorial1\obj\Debug\Tutorial1.fsprojResolveAssemblyReference.cache
