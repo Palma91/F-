@@ -3,7 +3,7 @@
 open System.IO
 open FSharp.Data
 
-
+//http://fsharp.github.io/FSharp.Data/library/JsonProvider.html
 
 type  provider = JsonProvider<"Countries.json", EmbeddedResource="MyLib, Countries.json">
 
@@ -28,6 +28,6 @@ let print ()=
 
 
 
-       printfn "first name: %A  second name: %A " data.FirstName data.LastName
+       printfn "first name: %A " docAsync.Id
 
 
