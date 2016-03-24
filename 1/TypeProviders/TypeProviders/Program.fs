@@ -10,9 +10,12 @@ open System
 let main argv = 
 
     //CSVTypeProvider.print() |> ignore
-    JsonTypeProvider.print() |> ignore
+    //JsonTypeProvider.print() |> ignore
+    
+    JSonTypeProviderFromFile.print() |> ignore
 
     printfn "Press any key..." 
     System.Console.ReadKey() |> ignore
+
 
     0 // return an integer exit code
