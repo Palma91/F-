@@ -2,6 +2,7 @@
 
 open System.IO
 open FSharp.Data.Sql
+open FSharp.Data.TypeProviders
 
 //http://fsharp.github.io/FSharp.Data/library/JsonProvider.html
 
@@ -19,3 +20,7 @@ let print ()=
     context.'sdas'
         |> Seq.iter (fun p -> printfn "sadasd %A" p.LastName)
 
+
+
+
+       |> Chart.Line 
